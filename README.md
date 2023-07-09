@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![1 Screenshot (118)](https://github.com/Raveen-Jayarathne06/Hotelbooking-Project/assets/89702673/90d71c27-a257-4682-89c8-694c8d5a8651)
+![1 Screenshot (119)](https://github.com/Raveen-Jayarathne06/Hotelbooking-Project/assets/89702673/9e687e2d-a040-4b19-8390-5570e7bab4ad)
+![Screenshot (111)](https://github.com/Raveen-Jayarathne06/Hotelbooking-Project/assets/89702673/6c5c79c5-a971-45cb-a8fa-d740eb91c30b)
+![Screenshot (112)](https://github.com/Raveen-Jayarathne06/Hotelbooking-Project/assets/89702673/ee716a95-87c9-4b52-bcd0-3f639405b549)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
